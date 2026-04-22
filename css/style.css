@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    line-height: 1.6;
+}
+
+/* CONTAINER */
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+/* HEADER */
+header{
+    background: rgba(0,0,0,0.6);
+    color: rgb(250, 241, 241);
+}
+
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.logo h2{
+    color: #00bcd4;
+}
+
+.search-box input{
+    padding: 8px;
+    width: 200px;
+}
+
+.hotline{
+    text-align: right;
+    font-size: 14px;
+}
+
+/* MENU */
+nav{
+    background: rgba(0,0,0,0.7);
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.menu li{
+    margin: 10px 15px;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.menu a:hover{
+    color: #00bcd4;
+}
+
+/* BANNER */
+#banner{
+    background: url(https://cdnv2.tgdd.vn/mwg-static/common/News/1586975/hinh-nen-may-tinh-4k-dep%20%2895%29.jpg) no-repeat center/cover;
+    height: 500px;
+    position: relative;
+}
+
+#banner .overlay{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+
+#banner h1{
+    font-size: 40px;
+}
+
+#banner p{
+    font-size: 18px;
+}
+
+/* TOURS */
+.tours{
+    padding: 40px 0;
+}
+
+.tour-list{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.tour{
+    flex: 1;
+    border: 1px solid #929292;
+    padding: 10px;
+    text-align: center;
+}
+
+.tour img{
+    width: 100%;
+}
+
+/* FOOTER */
+footer{
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+/* ===== THÊM PHẦN MỚI ===== */
+
+.section{
+    padding: 50px ;
+}
+
+.section h2{
+    margin-bottom: 20px;
+    color: #9c4141;
+}
+
+/* SERVICES */
+#services ul{
+    list-style: none;
+}
+
+#services li{
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+/* FORM */
+#contact form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#contact input, 
+#contact textarea{
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#contact button{
+    background: #b9450f;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#contact button:hover{
+    background: #0097a7;
+}
+
+/* RESPONSIVE */
+@media(max-width: 768px){
+
+    .header-top{
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .menu{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .tour-list{
+        flex-direction: column;
+    }
+
+    #banner{
+        height: 300px;
+    }
+
+    #banner h1{
+        font-size: 24px;
+    }
+}
+/* ===== GIỚI THIỆU NỔI BẬT ===== */
+#about{
+    background: #cfcaca;                 /* nền sáng nhẹ */
+    padding: 30px;
+    margin: 40px ;
+    border-radius: 25px;                /* bo góc giống hình */
+    box-shadow: 0 5px 15px rgba(20, 19, 19, 0.15); /* đổ bóng */
+    border: 2px solid #5e5858;
+}
+
+#about h2{
+    color: #c0392b;                     /* màu tiêu đề nổi */
+    margin-bottom: 10px;
+}
+
+#about p{
+    color: #000000;
+    line-height: 1.6;
+}
