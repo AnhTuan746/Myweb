@@ -4,7 +4,7 @@
 
 ---
 
-✨ *Cảm ơn bạn đã ghé thăm Portfolio của mình!* ✨
+ *Cảm ơn bạn đã ghé thăm Portfolio của mình!* 
 ---
 
 ##  Giới thiệu dự án
