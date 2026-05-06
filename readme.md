@@ -1,123 +1,48 @@
 
-# Portfolio Developer – Nguyễn Anh Tuấn
-> Đây là dự án phục vụ mục đích học tập & xây dựng thương hiệu cá nhân.
+# THIẾT KẾ WEBSITE cá nhân - ANH TUẤN
 
----
+Đây là website giới thiệu về các giải pháp thiết kế nội thất và các công trình kiến trúc hiện đại, tập trung vào sự tối giản và tinh tế.
 
- *Cảm ơn bạn đã ghé thăm Portfolio của mình!* 
----
+## 1. Mục tiêu
+* Giới thiệu đơn vị thiết kế, tầm nhìn và sứ mệnh của doanh nghiệp.
+* Trình bày danh mục các dự án tiêu biểu (Dân dụng, Thương mại, Hạ tầng).
+* Cung cấp thông tin chi tiết về thông số kỹ thuật và quy trình thực hiện dự án.
+* Kết nối khách hàng thông qua hệ thống biểu mẫu liên hệ và hỗ trợ trực tuyến.
 
-##  Giới thiệu dự án
+## 2. Cấu trúc website (Sitemap)
+Website bao gồm 5 trang chính:
+1. **Trang chủ**: Tổng quan dịch vụ và các dự án mẫu.
+2. **Về chúng tôi**: Giới thiệu đội ngũ, tầm nhìn và giá trị cốt lõi.
+3. **Dự án**: Danh mục tổng hợp các công trình theo phân loại.
+4. **Chi tiết dự án**: Thông tin cụ thể về từng công trình (Hình ảnh, mô tả, thông số).
+5. **Liên hệ**: Form gửi thông tin và bản đồ chỉ dẫn văn phòng.
 
-Đây là **Website Portfolio cá nhân** được thiết kế theo phong cách **UI/UX tối giản (Minimalist + Clean)**, giúp thể hiện rõ:
+## 3. Nội dung chi tiết từng trang
 
-*  Kỹ năng lập trình & thiết kế web
-*  Hành trình học tập & phát triển bản thân
-*  Các dự án thực tế đã thực hiện
+### 3.1 Trang chủ
+* **Banner giới thiệu chính**: Lời chào và nút hành động "Tìm hiểu thêm".
+* **Khối tính năng (1, 2, 3)**: Trình bày các thế mạnh hoặc dịch vụ trọng tâm.
+* **Dự án mẫu**: Danh sách các công trình nổi bật để tạo uy tín với khách hàng.
 
- Mục tiêu: Xây dựng một portfolio **chuyên nghiệp – dễ nhìn – dễ mở rộng**
+### 3.2 Trang Về chúng tôi
+* **Giới thiệu**: Lịch sử và phong cách thiết kế của đơn vị.
+* **Tầm nhìn - Sứ mệnh - Đội ngũ**: Khẳng định giá trị thương hiệu và năng lực nhân sự.
+* **Tính năng**: Mô tả các tiêu chuẩn chất lượng trong thiết kế.
 
----
+### 3.3 Trang Danh mục dự án
+* **Bộ lọc phân loại**: Tất cả | Dân dụng | Thương mại | Hạ tầng.
+* **Danh sách hiển thị**: Lưới các dự án với hình ảnh đại diện và tên dự án cụ thể.
 
-##  Cấu trúc Website
+### 3.4 Trang Chi tiết dự án
+* **Tiêu đề**: Tên công trình cụ thể (Ví dụ: Công trình ABC).
+* **Thông tin chính**: Hình ảnh lớn, mô tả dự án, thông số kỹ thuật và thời gian hoàn thành.
+* **Mục tiêu & Thư viện**: Làm rõ mục tiêu thiết kế và hiển thị thêm các hình ảnh chi tiết khác.
 
-###  1. Trang chủ (Home)
+### 3.5 Trang Liên hệ
+* **Thông tin trực tiếp**: Họ tên, Số điện thoại, Email, Địa chỉ văn phòng.
+* **Tương tác**: Biểu mẫu liên hệ (Họ tên, Email, SĐT, Tin nhắn) và bản đồ định vị.
 
-* Hero section nổi bật (giới thiệu bản thân)
-* CTA: Xem dự án / Liên hệ
-<img width="1280" height="853" alt="z7795561519024_4bf54a1923e2985ed17ada39d4b567d6" src="https://github.com/user-attachments/assets/305f7cba-5857-4e0b-bec4-9d19dfff6346" />
-
----
-
-###  2. Giới thiệu (About)
-
-* Thông tin cá nhân chi tiết
-* Kỹ năng & công cụ:
-  * HTML, CSS, JavaScript
-  * ReactJS, UI/UX
-* Kinh nghiệm & định hướng nghề nghiệp
-<img width="1197" height="785" alt="z7796454405394_105e407a09a7528e740380d637503ec0" src="https://github.com/user-attachments/assets/098a19a3-c593-4dac-b9c8-f0648174bd2b" />
-
----
-
-###  3. Dự án (Projects)
-
-* Danh sách project dạng card
-* Có filter (Web / Mobile / UI)
-* Hiển thị:
-
-  * Ảnh preview
-  * Tên dự án
-  * Công nghệ sử dụng
-<img width="1252" height="832" alt="z7796454405592_aa50feba1205a2c10ddcdb11b500bf81" src="https://github.com/user-attachments/assets/1b5b415b-740c-42c0-ab8b-e7f805c8f3ce" />
-
----
-
-###  4. Chi tiết dự án (Project Detail)
-
-* Mô tả chi tiết dự án
-* Hình ảnh demo
-* Công nghệ sử dụng
-* Kết quả đạt được
-<img width="1263" height="848" alt="z7796635104326_f80a8597a4261707810511a7eab189cf" src="https://github.com/user-attachments/assets/bcbd5946-2bcc-4f77-b1a9-a1e2fdc32981" />
-
----
-
-###  5. Liên hệ (Contact)
-
-* Form gửi email trực tiếp
-* Thông tin liên hệ:
-
-  *  Email
-  *  SĐT
-  *  Địa chỉ
-* Social links
-<img width="1264" height="847" alt="z7796454411483_33614b4b43bf8e5df15871db25316d2b" src="https://github.com/user-attachments/assets/6d3b2de1-e17f-407e-81c3-a07be346bc8b" />
-
----
-
-##  Công nghệ sử dụng
-Design:
-- canva
-
-Tools:
-- Git & GitHub
-- VS Code
-```
-
----
-
-##  Giao diện & Thiết kế
-
-*  Phong cách: **Minimal – Clean – Modern**
-*  Màu sắc: Trắng, xám, điểm nhấn pastel
-*  Responsive: Tương thích mọi thiết bị
-*  Tối ưu trải nghiệm người dùng (UX)
-
----
-
-##  Điểm nổi bật
-
- Thiết kế hiện đại, dễ nhìn
- Code sạch, dễ bảo trì
- Dễ dàng mở rộng thêm tính năng
- Phù hợp làm CV online
-
----
-
-##  Demo & Source
-
-*  Live Demo: *(thêm link GitHub Pages tại đây)*
-*  Source Code: *(link repo GitHub)*
-
----
-
-##  Liên hệ
-
-> Nếu bạn muốn hợp tác hoặc trao đổi, đừng ngại liên hệ!
-
-*  Email: [yourmail@example.com](mailto:yourmail@example.com)
-*  GitHub: https://github.com/yourusername
-
----
+## 4. Giao diện (UI) & Phong cách thiết kế
+* **Màu sắc chủ đạo**: Trắng - Đen (Minimalism) tạo cảm giác sang trọng, chuyên nghiệp.
+* **Bố cục**: Hiện đại, sử dụng nhiều khoảng trắng (White space) giúp làm nổi bật hình ảnh công trình.
 
