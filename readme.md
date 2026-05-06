@@ -1,6 +1,10 @@
 
 # Portfolio Developer – Nguyễn Anh Tuấn
+> Đây là dự án phục vụ mục đích học tập & xây dựng thương hiệu cá nhân.
 
+---
+
+✨ *Cảm ơn bạn đã ghé thăm Portfolio của mình!* ✨
 ---
 
 ##  Giới thiệu dự án
