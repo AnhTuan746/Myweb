@@ -65,6 +65,13 @@ Website bao gồm 5 trang chính:
 ## công nghệ sử dụng 
 Design:
 - canva
+
+##  Liên hệ
+> Nếu bạn muốn hợp tác hoặc trao đổi, đừng ngại liên hệ!
+
+*  Email: [yourmail@example.com](mailto:yourmail@example.com)
+*  GitHub: https://github.com/yourusername
+
 ---
 
 
