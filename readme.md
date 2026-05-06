@@ -17,17 +17,18 @@
 
 ---
 
-## 🧩 Cấu trúc Website
+##  Cấu trúc Website
 
-### 🏠 1. Trang chủ (Home)
+###  1. Trang chủ (Home)
 
 * Hero section nổi bật (giới thiệu bản thân)
 * CTA: Xem dự án / Liên hệ
 * Social icon (LinkedIn, GitHub,...)
+<img width="1280" height="853" alt="z7795561519024_4bf54a1923e2985ed17ada39d4b567d6" src="https://github.com/user-attachments/assets/305f7cba-5857-4e0b-bec4-9d19dfff6346" />
 
 ---
 
-### 👤 2. Giới thiệu (About)
+###  2. Giới thiệu (About)
 
 * Thông tin cá nhân chi tiết
 * Kỹ năng & công cụ:
@@ -38,7 +39,7 @@
 
 ---
 
-### 💼 3. Dự án (Projects)
+###  3. Dự án (Projects)
 
 * Danh sách project dạng card
 * Có filter (Web / Mobile / UI)
@@ -50,7 +51,7 @@
 
 ---
 
-### 📄 4. Chi tiết dự án (Project Detail)
+###  4. Chi tiết dự án (Project Detail)
 
 * Mô tả chi tiết dự án
 * Hình ảnh demo
@@ -59,19 +60,19 @@
 
 ---
 
-### 📩 5. Liên hệ (Contact)
+###  5. Liên hệ (Contact)
 
 * Form gửi email trực tiếp
 * Thông tin liên hệ:
 
-  * 📧 Email
-  * 📞 SĐT
-  * 📍 Địa chỉ
+  *  Email
+  *  SĐT
+  *  Địa chỉ
 * Social links
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+##  Công nghệ sử dụng
 
 ```bash
 Frontend:
@@ -90,37 +91,37 @@ Tools:
 
 ---
 
-## 🎨 Giao diện & Thiết kế
+##  Giao diện & Thiết kế
 
-* 🌟 Phong cách: **Minimal – Clean – Modern**
-* 🎨 Màu sắc: Trắng, xám, điểm nhấn pastel
-* 📱 Responsive: Tương thích mọi thiết bị
-* ⚡ Tối ưu trải nghiệm người dùng (UX)
-
----
-
-## 📌 Điểm nổi bật
-
-✔️ Thiết kế hiện đại, dễ nhìn
-✔️ Code sạch, dễ bảo trì
-✔️ Dễ dàng mở rộng thêm tính năng
-✔️ Phù hợp làm CV online
+*  Phong cách: **Minimal – Clean – Modern**
+*  Màu sắc: Trắng, xám, điểm nhấn pastel
+*  Responsive: Tương thích mọi thiết bị
+*  Tối ưu trải nghiệm người dùng (UX)
 
 ---
 
-## 🔗 Demo & Source
+##  Điểm nổi bật
 
-* 🌍 Live Demo: *(thêm link GitHub Pages tại đây)*
-* 💻 Source Code: *(link repo GitHub)*
+ Thiết kế hiện đại, dễ nhìn
+ Code sạch, dễ bảo trì
+ Dễ dàng mở rộng thêm tính năng
+ Phù hợp làm CV online
 
 ---
 
-## 📬 Liên hệ
+##  Demo & Source
+
+*  Live Demo: *(thêm link GitHub Pages tại đây)*
+*  Source Code: *(link repo GitHub)*
+
+---
+
+##  Liên hệ
 
 > Nếu bạn muốn hợp tác hoặc trao đổi, đừng ngại liên hệ!
 
-* 📧 Email: [yourmail@example.com](mailto:yourmail@example.com)
-* 🌐 GitHub: https://github.com/yourusername
+*  Email: [yourmail@example.com](mailto:yourmail@example.com)
+*  GitHub: https://github.com/yourusername
 
 ---
 
