@@ -1,31 +1,19 @@
 
-# 🌐 Portfolio Developer – Lê Phạm Trung Hiếu
+# Portfolio Developer – Nguyễn Anh Tuấn
 
-> ✨ *"Biến ý tưởng thành trải nghiệm số hiện đại."*
+>  *"Biến ý tưởng thành trải nghiệm số hiện đại."*
 
 ---
 
-## 🚀 Giới thiệu dự án
+##  Giới thiệu dự án
 
 Đây là **Website Portfolio cá nhân** được thiết kế theo phong cách **UI/UX tối giản (Minimalist + Clean)**, giúp thể hiện rõ:
 
-* 🎯 Kỹ năng lập trình & thiết kế web
-* 📚 Hành trình học tập & phát triển bản thân
-* 💼 Các dự án thực tế đã thực hiện
+*  Kỹ năng lập trình & thiết kế web
+*  Hành trình học tập & phát triển bản thân
+*  Các dự án thực tế đã thực hiện
 
-👉 Mục tiêu: Xây dựng một portfolio **chuyên nghiệp – dễ nhìn – dễ mở rộng**
-
----
-
-## 👨‍💻 Thông tin cá nhân
-
-| Thuộc tính    | Chi tiết                         |
-| ------------- | -------------------------------- |
-| 👤 Họ tên     | **Lê Phạm Trung Hiếu**           |
-| 🎓 Ngành học  | Công nghệ thông tin              |
-| 🏫 Trường     | CĐ Kỹ Thuật Công Nghệ Nha Trang  |
-| 💡 Định hướng | Frontend / Fullstack Developer   |
-| ❤️ Sở thích   | Code, UI Design, Game, Công nghệ |
+ Mục tiêu: Xây dựng một portfolio **chuyên nghiệp – dễ nhìn – dễ mở rộng**
 
 ---
 
