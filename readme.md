@@ -33,7 +33,6 @@
 
 * Thông tin cá nhân chi tiết
 * Kỹ năng & công cụ:
-
   * HTML, CSS, JavaScript
   * ReactJS, UI/UX
 * Kinh nghiệm & định hướng nghề nghiệp
@@ -78,16 +77,8 @@
 ---
 
 ##  Công nghệ sử dụng
-
-```bash
-Frontend:
-- HTML5, CSS3
-- JavaScript (ES6+)
-- Responsive Design
-
 Design:
-- Figma
-- Photoshop
+- canva
 
 Tools:
 - Git & GitHub
