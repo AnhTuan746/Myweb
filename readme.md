@@ -68,7 +68,7 @@ Hệ thống bao gồm 4 trang web chính phục vụ mục đích giới thiệ
 * **Danh mục dự án (duan.html)**: Hiển thị bộ sưu tập các dự án đã thực hiện với bộ lọc phân loại (Dân dụng, Thương mại, Hạ tầng).
 * **Liên hệ (lienhe.html)**: Cung cấp thông tin liên lạc, bản đồ vị trí và biểu mẫu (form) để người dùng gửi yêu cầu trực tiếp.
 
-## 6.công nghệ sử dụng 
+## 6. công nghệ sử dụng 
 * **Design**: canva
 * **Công cụ AI**: gemini
 * **Dòng lệnh** :
