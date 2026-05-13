@@ -63,10 +63,10 @@ Website bao gồm 5 trang chính:
   
 ## 5. Mô tả chức năng, nhiệm vụ trang web
 Hệ thống bao gồm 4 trang web chính phục vụ mục đích giới thiệu doanh nghiệp/cá nhân:
-* ** Trang chủ (trangchu.html): Tổng quan về năng lực, các tính năng nổi bật và các dự án tiêu biểu.
-• Về chúng tôi (vechungtoi.html): Giới thiệu chi tiết về tầm nhìn, sứ mệnh và đội ngũ nhân sự.
-• Danh mục dự án (duan.html): Hiển thị bộ sưu tập các dự án đã thực hiện với bộ lọc phân loại (Dân dụng, Thương mại, Hạ tầng).
-• Liên hệ (lienhe.html): Cung cấp thông tin liên lạc, bản đồ vị trí và biểu mẫu (form) để người dùng gửi yêu cầu trực tiếp.
+* **Trang chủ (trangchu.html): Tổng quan về năng lực, các tính năng nổi bật và các dự án tiêu biểu.
+* **Về chúng tôi (vechungtoi.html): Giới thiệu chi tiết về tầm nhìn, sứ mệnh và đội ngũ nhân sự.
+* **Danh mục dự án (duan.html): Hiển thị bộ sưu tập các dự án đã thực hiện với bộ lọc phân loại (Dân dụng, Thương mại, Hạ tầng).
+* **Liên hệ (lienhe.html): Cung cấp thông tin liên lạc, bản đồ vị trí và biểu mẫu (form) để người dùng gửi yêu cầu trực tiếp.
 
 ## 6.công nghệ sử dụng 
 • Design: canva
