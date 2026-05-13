@@ -63,15 +63,15 @@ Website bao gồm 5 trang chính:
   
 ## 5. Mô tả chức năng, nhiệm vụ trang web
 Hệ thống bao gồm 4 trang web chính phục vụ mục đích giới thiệu doanh nghiệp/cá nhân:
-* **Trang chủ (trangchu.html): Tổng quan về năng lực, các tính năng nổi bật và các dự án tiêu biểu.
-* **Về chúng tôi (vechungtoi.html): Giới thiệu chi tiết về tầm nhìn, sứ mệnh và đội ngũ nhân sự.
-* **Danh mục dự án (duan.html): Hiển thị bộ sưu tập các dự án đã thực hiện với bộ lọc phân loại (Dân dụng, Thương mại, Hạ tầng).
-* **Liên hệ (lienhe.html): Cung cấp thông tin liên lạc, bản đồ vị trí và biểu mẫu (form) để người dùng gửi yêu cầu trực tiếp.
+* **Trang chủ (trangchu.html)**: Tổng quan về năng lực, các tính năng nổi bật và các dự án tiêu biểu.
+* **Về chúng tôi (vechungtoi.html)**: Giới thiệu chi tiết về tầm nhìn, sứ mệnh và đội ngũ nhân sự.
+* **Danh mục dự án (duan.html)**: Hiển thị bộ sưu tập các dự án đã thực hiện với bộ lọc phân loại (Dân dụng, Thương mại, Hạ tầng).
+* **Liên hệ (lienhe.html)**: Cung cấp thông tin liên lạc, bản đồ vị trí và biểu mẫu (form) để người dùng gửi yêu cầu trực tiếp.
 
 ## 6.công nghệ sử dụng 
-• Design: canva
-• Công cụ AI: gemini
-• Dòng lệnh :
+* **Design**: canva
+* **Công cụ AI**: gemini
+* **Dòng lệnh** :
 "Hãy tạo cho tôi một giao diện web tối giản cho công ty kiến trúc bằng HTML và CSS thuần. Yêu cầu có thanh menu ngang, phần Hero giới thiệu, grid 3 cột cho tính năng, trang danh mục dự án có bộ lọc và trang liên hệ có form. Sử dụng font Arial, màu sắc chủ đạo là #333 và trắng."
 
 ## 7.Liên hệ
