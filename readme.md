@@ -69,10 +69,10 @@ Hệ thống bao gồm 4 trang web chính phục vụ mục đích giới thiệ
 • Liên hệ (lienhe.html): Cung cấp thông tin liên lạc, bản đồ vị trí và biểu mẫu (form) để người dùng gửi yêu cầu trực tiếp.
 
 ## 6.công nghệ sử dụng 
-Design:
-- canva
-AI:
-- gemini
+• Design: canva
+• Công cụ AI: gemini
+• Dòng lệnh :
+"Hãy tạo cho tôi một giao diện web tối giản cho công ty kiến trúc bằng HTML và CSS thuần. Yêu cầu có thanh menu ngang, phần Hero giới thiệu, grid 3 cột cho tính năng, trang danh mục dự án có bộ lọc và trang liên hệ có form. Sử dụng font Arial, màu sắc chủ đạo là #333 và trắng."
 
 ## 7.Liên hệ
 > Nếu bạn muốn hợp tác hoặc trao đổi, đừng ngại liên hệ!
