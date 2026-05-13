@@ -2,132 +2,104 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Liên hệ với chúng tôi - No CSS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liên hệ </title>
+    <link rel="stylesheet" href="./css/style.css">
 </head>
-<body bgcolor="#ffffff">
+<body>
 
-    <!-- Header -->
-    <table width="100%" border="0" cellpadding="20" cellspacing="0">
-        <tr>
-            <td width="20%">
-                <table border="1" cellpadding="5" cellspacing="0">
-                    <tr><td><b>LOGO</b></td></tr>
-                </table>
-            </td>
-            <td align="center">
-                <a href="#">Trang chủ</a> &nbsp;&nbsp;&nbsp;
-                <a href="#">Về chúng tôi</a> &nbsp;&nbsp;&nbsp;
-                <a href="#">Dự án</a> &nbsp;&nbsp;&nbsp;
-                <u><b>Liên hệ</b></u>
-            </td>
-            <td width="20%" align="right">
-                🔍
-            </td>
-        </tr>
-    </table>
+    <header>
+        <div class="container nav-bar">
+            <div class="logo">LOGO</div>
+            <nav>
+              <a href="trangchu.html">Trang chủ</a>
+              <a href="vechungtoi.html">Về chúng tôi</a>
+              <a href="duan.html">Dự án </a>
+              <a href="lienhe.html">Liên hệ </a>
+            </nav>
+            <div class="search-icon">🔍</div>
+        </div>
+    </header>
 
-    <hr color="#000000" size="1">
-
-    <!-- Contact Section -->
-    <table width="100%" border="0" cellpadding="50" cellspacing="0">
-        <tr>
-            <!-- Cột trái: Thông tin & Bản đồ -->
-            <td width="50%" valign="top">
-                <h1>LIÊN HỆ VỚI CHÚNG TÔI</h1>
+    <main class="container contact-page">
+        <h1 class="main-title">LIÊN HỆ VỚI CHÚNG TÔI</h1>
+        
+        <div class="contact-grid">
+            <div class="contact-info">
+                <div class="info-item">
+                    <div class="icon-circle">📞</div>
+                    <div>
+                        <strong>Họ và tên</strong><br>
+                        <span>SĐT: 0123 456 789</span>
+                    </div>
+                </div>
+                <div class="info-item">
+                    <div class="icon-circle">✉️</div>
+                    <div>
+                        <strong>Điều khoản sử dụng</strong><br>
+                        <span>email@example.com</span>
+                    </div>
+                </div>
+                <div class="info-item">
+                    <div class="icon-circle">📞</div>
+                    <div>
+                        <strong>Số điện thoại</strong><br>
+                        <span>Địa chỉ: 123 ABC</span>
+                    </div>
+                </div>
                 
-                <table border="0" cellpadding="5" cellspacing="0">
-                    <tr>
-                        <td valign="top">📞</td>
-                        <td><b>Họ và tên</b><br>SĐT: 0123 456 789</td>
-                    </tr>
-                    <tr><td colspan="2">&nbsp;</td></tr>
-                    <tr>
-                        <td valign="top">✉️</td>
-                        <td><b>Điều khoản sử dụng</b><br>email@example.com</td>
-                    </tr>
-                    <tr><td colspan="2">&nbsp;</td></tr>
-                    <tr>
-                        <td valign="top">📍</td>
-                        <td><b>Số điện thoại</b><br>Địa chỉ: 123 ABC</td>
-                    </tr>
-                </table>
+                <div class="map-placeholder">
+                    <div class="map-icon">📍</div>
+                </div>
+            </div>
 
-                <br><br>
+            <div class="contact-form-container">
+                <form class="contact-form">
+                    <input type="text" placeholder="Họ và tên">
+                    <input type="email" placeholder="Email">
+                    <input type="tel" placeholder="Số điện thoại">
+                    <textarea placeholder="Tin nhắn" rows="5"></textarea>
+                    <button type="submit" class="btn-submit">GỬI</button>
+                </form>
+            </div>
+        </div>
+    </main>
 
-                <!-- Map Placeholder -->
-                <table width="100%" bgcolor="#dddddd" height="200" border="1" cellspacing="0">
-                    <tr>
-                        <td align="center" valign="middle">
-                            🗺️<br>Bản đồ khu vực
-                        </td>
-                    </tr>
-                </table>
-            </td>
-
-            <!-- Cột phải: Form liên hệ -->
-            <td width="50%" align="right" valign="top">
-                <table width="400" border="1" cellpadding="30" cellspacing="0" bordercolor="#cccccc">
-                    <tr>
-                        <td>
-                            <form>
-                                <input type="text" placeholder="Họ và tên" size="45">
-                                <br><br>
-                                <input type="email" placeholder="Email" size="45">
-                                <br><br>
-                                <input type="text" placeholder="Số điện thoại" size="45">
-                        <br><br>
-                                <textarea placeholder="Tin nhắn" rows="6" cols="42"></textarea>
-                                <br><br>
-                                
-                                <!-- Nút gửi giả lập bằng Table -->
-                                <table width="100%" bgcolor="#000000" border="0" cellpadding="10">
-                                    <tr>
-                                        <td align="center">
-                                            <font color="#ffffff"><b>GỬI</b></font>
-                                        </td>
-                                    </tr>
-                                </table>
-                            </form>
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table>
-
-    <!-- Footer -->
-    <hr color="#eeeeee">
-    <table width="100%" border="0" cellpadding="40" cellspacing="0">
-        <tr>
-            <td width="25%" valign="top">
-                <table border="1" cellpadding="5"><tr><td><b>LOGO</b></td></tr></table>
-                <p>f (i) in</p>
-            </td>
-            <td width="25%" valign="top">
-                <b>VỀ CHÚNG TÔI</b><br><br>
-                Giới thiệu<br>
-                Tầm nhìn - Sứ mệnh<br>
-                Đội ngũ
-            </td>
-            <td width="25%" valign="top">
-                <b>HỖ TRỢ</b><br><br>
-                Chính sách bảo mật<br>
-                Điều khoản sử dụng<br>
-                Câu hỏi thường gặp
-            </td>
-            <td width="25%" valign="top">
-                <b>LIÊN HỆ</b><br><br>
-                SĐT: 0123 456 789<br>
-                email@leaomple.com<br>
-                Địa chỉ: 123 ABC
-            </td>
-        </tr>
-        <tr>
-            <td colspan="4" align="center">
-                <font size="2">@2026 Anh Tuấn</font>
-            </td>
-        </tr>
-    </table>
+    <footer>
+        <div class="container footer-grid">
+            <div class="footer-col">
+                <div class="logo">LOGO</div>
+                <div class="social-icons">
+                    <span>f</span> <span>📷</span> <span>in</span>
+                </div>
+            </div>
+            <div class="footer-col">
+                <h3>VỀ CHÚNG TÔI</h3>
+                <ul>
+                    <li>Giới thiệu</li>
+                    <li>Tầm nhìn - Sứ mệnh</li>
+                    <li>Đội ngũ</li>
+                </ul>
+            </div>
+            <div class="footer-col border-left">
+                <h3>HỖ TRỢ</h3>
+                <ul>
+                    <li>Chính sách bảo mật</li>
+                    <li>Điều khoản sử dụng</li>
+                    <li>Câu hỏi thường gặp</li>
+                </ul>
+            </div>
+            <div class="footer-col border-left">
+                <h3>LIÊN HỆ</h3>
+                <ul>
+                    <li>SĐT: 0123 456 789</li>
+                    <li>email@leaomple.com</li>
+                    <li>Địa chỉ: 123 ABC</li>
+                </ul>
+            </div>
+        </div>
+        <div class="copyright">@2026 Anh Tuấn</div>
+    </footer>
 
 </body>
 </html>
