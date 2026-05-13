@@ -23,7 +23,6 @@ Website bao gồm 5 trang chính:
 * **Banner giới thiệu chính**: Lời chào và nút hành động "Tìm hiểu thêm".
 * **Khối tính năng (1, 2, 3)**: Trình bày các thế mạnh hoặc dịch vụ trọng tâm.
 * **Dự án mẫu**: Danh sách các công trình nổi bật để tạo uy tín với khách hàng.
-
 <img width="1599" height="830" alt="image" src="https://github.com/user-attachments/assets/77061aa2-82cf-4f0c-b46a-711bba8abe54" />
 
 ### 3.2 Trang Về chúng tôi
@@ -61,12 +60,21 @@ Website bao gồm 5 trang chính:
 * **Bố cục**: Hiện đại, sử dụng nhiều khoảng trắng (White space) giúp làm nổi bật hình ảnh công trình.
 * **Trải nghiệm**: Menu điều hướng tinh gọn, tích hợp tìm kiếm và liên kết mạng xã hội (Facebook, Instagram, LinkedIn).
 * **Chân trang (Footer)**: Đầy đủ các liên kết hỗ trợ như Chính sách bảo mật, Điều khoản sử dụng và Câu hỏi thường gặp.
+  
+## 5. Mô tả chức năng, nhiệm vụ trang web
+Hệ thống bao gồm 4 trang web chính phục vụ mục đích giới thiệu doanh nghiệp/cá nhân:
+• Trang chủ (trangchu.html): Tổng quan về năng lực, các tính năng nổi bật và các dự án tiêu biểu.
+• Về chúng tôi (vechungtoi.html): Giới thiệu chi tiết về tầm nhìn, sứ mệnh và đội ngũ nhân sự.
+• Danh mục dự án (duan.html): Hiển thị bộ sưu tập các dự án đã thực hiện với bộ lọc phân loại (Dân dụng, Thương mại, Hạ tầng).
+• Liên hệ (lienhe.html): Cung cấp thông tin liên lạc, bản đồ vị trí và biểu mẫu (form) để người dùng gửi yêu cầu trực tiếp.
 
-## công nghệ sử dụng 
+## 6.công nghệ sử dụng 
 Design:
 - canva
+AI:
+- gemini
 
-##  Liên hệ
+## 7.Liên hệ
 > Nếu bạn muốn hợp tác hoặc trao đổi, đừng ngại liên hệ!
 
 *  Email: [yourmail@example.com](mailto:yourmail@example.com)
