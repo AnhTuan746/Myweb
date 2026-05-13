@@ -23,6 +23,7 @@ Website bao gồm 5 trang chính:
 * **Banner giới thiệu chính**: Lời chào và nút hành động "Tìm hiểu thêm".
 * **Khối tính năng (1, 2, 3)**: Trình bày các thế mạnh hoặc dịch vụ trọng tâm.
 * **Dự án mẫu**: Danh sách các công trình nổi bật để tạo uy tín với khách hàng.
+* **Trang chủ (trangchu.html)**: Tổng quan về năng lực, các tính năng nổi bật và các dự án tiêu biểu.
 <img width="1599" height="830" alt="image" src="https://github.com/user-attachments/assets/77061aa2-82cf-4f0c-b46a-711bba8abe54" />
 
 ### 3.2 Trang Về chúng tôi
