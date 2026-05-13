@@ -2,137 +2,101 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Giao diện trang chủ</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Giao Diện Tối Giản</title>
+    <link rel="stylesheet" href="./css/style.css">
 </head>
-<body bgcolor="#f4f4f4">
+<body>
 
-    <!-- Header -->
-    <table width="100%" border="0" cellpadding="20" cellspacing="0" bgcolor="#ffffff">
-        <tr>
-            <td width="20%">
-                <table border="1" cellpadding="5" cellspacing="0">
-                    <tr><td><b>LOGO</b></td></tr>
-                </table>
-            </td>
-            <td align="center">
-                <a href="#"><b>Trangchu.html</b></a> &nbsp;&nbsp;&nbsp;
-                <a href="#">Về chúng tôi</a> &nbsp;&nbsp;&nbsp;
-                <a href="#">Dự án</a> &nbsp;&nbsp;&nbsp;
-                <a href="#">Liên hệ</a>
-            </td>
-            <td width="20%" align="right">
-                🔍
-            </td>
-        </tr>
-    </table>
-
-    <hr color="#eeeeee" size="1">
+    <header>
+        <div class="container nav-bar">
+            <div class="logo">LOGO</div>
+            <nav>
+                <a href="trangchu.html">Trang chủ</a>
+                <a href="vechungtoi.html">Về chúng tôi</a>
+                <a href="duan.html">Dự án </a>
+                <a href="lienhe.html">Liên hệ </a>
+            </nav>
+            <div class="search-icon">🔍</div>
+        </div>
+    </header>
 
     <!-- Hero Section -->
-    <table width="100%" border="0" cellpadding="50" cellspacing="0" bgcolor="#ffffff">
-        <tr>
-            <td width="50%" valign="middle">
-                <h1>BÀI GIỚI THIỆU CHÍNH</h1>
-                <table border="0" cellpadding="10" cellspacing="0" bgcolor="#000000">
-                    <tr>
-                        <td><font color="#ffffff">TÌM HIỂU THÊM</font></td>
-                    </tr>
-                </table>
-            </td>
-            <td width="50%" align="right">
-                <table width="400" height="250" bgcolor="#dddddd" border="0">
-                    <tr><td align="center">Hình ảnh chính</td></tr>
-                </table>
-            </td>
-        </tr>
-    </table>
+    <section class="hero container">
+        <div class="hero-text">
+            <h1>BÀI GIỚI THIỆU CHÍNH</h1>
+            <button class="btn-dark">TÌM HIỂU THÊM</button>
+        </div>
+        <div class="hero-image-placeholder">
+            <span>🖼️</span>
+        </div>
+    </section>
 
     <!-- Features Section -->
-    <table width="100%" border="0" cellpadding="20" cellspacing="20" bgcolor="#ffffff">
-        <tr>
-            <td width="33%" align="center" border="1">
-                <table width="100%" border="1" cellpadding="20" cellspacing="0">
-                    <tr>
-                        <td align="center">
-                            🌐<br><br>
-                            <b>TÍNH NĂNG 1</b>
-                        </td>
-                    </tr>
-                </table>
-            </td>
-            <td width="33%" align="center">
-                <table width="100%" border="1" cellpadding="20" cellspacing="0">
-                    <tr>
-                        <td align="center">
-                            📍<br><br>
-                            <b>TÍNH NĂNG 2</b>
-                        </td>
-                    </tr>
-                </table>
-            </td>
-            <td width="33%" align="center">
-                <table width="100%" border="1" cellpadding="20" cellspacing="0">
-                    <tr>
-                        <td align="center">
-                            📍<br><br>
-                            <b>TÍNH NĂNG 3</b>
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table>
+    <section class="features container">
+        <div class="feature-card">
+            <i>⚙️</i>
+            <p>TÍNH NĂNG 1</p>
+        </div>
+        <div class="feature-card">
+            <i>📍</i>
+            <p>TÍNH NĂNG 2</p>
+        </div>
+        <div class="feature-card">
+            <i>📍</i>
+            <p>TÍNH NĂNG 3</p>
+        </div>
+    </section>
 
     <!-- Projects Section -->
-<table width="100%" border="0" cellpadding="20" cellspacing="0" bgcolor="#ffffff">
-        <tr>
-            <td><h2>DỰ ÁN MẪU</h2></td>
-            <td align="right"><a href="#">Xem thêm &rarr;</a></td>
-        </tr>
-    </table>
-    <table width="100%" border="0" cellpadding="20" cellspacing="20" bgcolor="#ffffff">
-        <tr>
-            <td width="33%" bgcolor="#dddddd" height="150" align="center">🖼️</td>
-            <td width="33%" bgcolor="#dddddd" height="150" align="center">🖼️</td>
-            <td width="33%" bgcolor="#dddddd" height="150" align="center">🖼️</td>
-        </tr>
-    </table>
+    <section class="projects container">
+        <div class="section-header">
+            <h2>DỰ ÁN MẪU</h2>
+            <a href="#" class="view-more">Xem thêm →</a>
+        </div>
+        <div class="project-grid">
+            <div class="project-item"><span>🖼️</span></div>
+            <div class="project-item"><span>🖼️</span></div>
+            <div class="project-item"><span>🖼️</span></div>
+        </div>
+    </section>
 
     <!-- Footer -->
-    <table width="100%" border="0" cellpadding="40" cellspacing="0" bgcolor="#ffffff">
-        <tr>
-            <td colspan="4"><hr color="#eeeeee"></td>
-        </tr>
-        <tr>
-            <td width="25%" valign="top">
-                <table border="1" cellpadding="5"><tr><td><b>LOGO</b></td></tr></table>
-                <p>f (i) in</p>
-            </td>
-            <td width="25%" valign="top">
-                <b>VỀ CHÚNG TÔI</b><br><br>
-                Giới thiệu<br>
-                Tầm nhìn - Sứ mệnh<br>
-                Đội ngũ
-            </td>
-            <td width="25%" valign="top">
-                <b>HỖ TRỢ</b><br><br>
-                Chính sách bảo mật<br>
-                Điều khoản sử dụng<br>
-                Câu hỏi thường gặp
-            </td>
-            <td width="25%" valign="top">
-                <b>LIÊN HỆ</b><br><br>
-                SĐT: 0123 456 789<br>
-                email@example.com<br>
-                Địa chỉ: 123 ABC
-            </td>
-        </tr>
-        <tr>
-            <td colspan="4" align="center">
-                <font size="2">@2026 Anh Tuấn</font>
-            </td>
-        </tr>
-    </table>
+    <footer>
+        <div class="container footer-grid">
+            <div class="footer-col">
+                <div class="logo">LOGO</div>
+                <div class="social-icons">
+                    <span>f</span> <span>📷</span> <span>in</span>
+                </div>
+            </div>
+            <div class="footer-col">
+                <h3>VỀ CHÚNG TÔI</h3>
+                <ul>
+                    <li>Giới thiệu</li>
+                    <li>Tầm nhìn - Sứ mệnh</li>
+                    <li>Đội ngũ</li>
+                </ul>
+            </div>
+            <div class="footer-col border-left">
+                <h3>HỖ TRỢ</h3>
+                <ul>
+                    <li>Chính sách bảo mật</li>
+                    <li>Điều khoản sử dụng</li>
+                    <li>Câu hỏi thường gặp</li>
+                </ul>
+            </div>
+            <div class="footer-col border-left">
+                <h3>LIÊN HỆ</h3>
+                <ul>
+                    <li>SĐT: 0123 456 789</li>
+                    <li>email@example.com</li>
+                    <li>Địa chỉ: 123 ABC</li>
+                </ul>
+            </div>
+        </div>
+        <div class="copyright">@2026 Anh Tuấn</div>
+    </footer>
 
 </body>
 </html>
