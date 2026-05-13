@@ -2,115 +2,83 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Về chúng tôi - No CSS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Về chúng tôi </title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body bgcolor="#ffffff">
+<body>
 
-    <!-- Header -->
-    <table width="100%" border="0" cellpadding="20" cellspacing="0">
-        <tr>
-            <td width="20%">
-                <table border="1" cellpadding="5" cellspacing="0">
-                    <tr><td><b>LOGO</b></td></tr>
-                </table>
-            </td>
-            <td align="center">
-                <a href="#">Trang chủ</a> &nbsp;&nbsp;&nbsp;
-                <u><b>Về chúng tôi</b></u> &nbsp;&nbsp;&nbsp;
-                <a href="#">Dự án</a> &nbsp;&nbsp;&nbsp;
-                <a href="#">Liên hệ</a>
-            </td>
-            <td width="20%" align="right">
-                🔍
-            </td>
-        </tr>
-    </table>
+    <header>
+        <div class="container nav-bar">
+            <div class="logo">LOGO</div>
+            <nav>
+              <a href="trangchu.html">Trang chủ</a>
+              <a href="vechungtoi.html">Về chúng tôi</a>
+              <a href="duan.html">Dự án </a>
+              <a href="lienhe.html">Liên hệ </a>
+            </nav>
+            <div class="search-icon">🔍</div>
+        </div>
+    </header>
 
-    <hr color="#000000" size="1">
-
-    <!-- Content Section -->
-    <table width="100%" border="0" cellpadding="50" cellspacing="0">
-        <tr>
-            <!-- Cột tiêu đề bên trái -->
-            <td width="60%" valign="top">
-                <br>
-                <h1>VỀ CHÚNG TÔI</h1>
-            </td>
-
-            <!-- Cột tính năng bên phải -->
-            <td width="40%" align="right" valign="top">
-                
-                <!-- Tính năng 1 -->
-                <table width="300" border="1" cellpadding="25" cellspacing="0">
-                    <tr>
-                        <td align="center">
-                            🌐<br><br>
-                            <b>TÍNH NĂNG 1</b>
-                        </td>
-                    </tr>
-                </table>
-                <br>
-
-                <!-- Tính năng 2 -->
-                <table width="300" border="1" cellpadding="25" cellspacing="0">
-                    <tr>
-                        <td align="center">
-                            📍<br><br>
-                            <b>TÍNH NĂNG 2</b>
-                        </td>
-                    </tr>
-                </table>
-                <br>
-
-                <!-- Tính năng 3 -->
-                <table width="300" border="1" cellpadding="25" cellspacing="0">
-                    <tr>
-                        <td align="center">
-                            📍<br><br>
-                            <b>TÍNH NĂNG 3</b>
-                        </td>
-                    </tr>
-                </table>
-
-            </td>
-        </tr>
-    </table>
-
-    <br><br>
+    <!-- Main Content (About Page) -->
+    <main class="container about-section">
+        <div class="about-title">
+            <h1>VỀ CHÚNG TÔI</h1>
+        </div>
+        
+        <div class="about-features-list">
+            <div class="feature-card-horizontal">
+                <i>⚙️</i>
+                <p>TÍNH NĂNG 1</p>
+            </div>
+            <div class="feature-card-horizontal">
+                <i>📍</i>
+                <p>TÍNH NĂNG 2</p>
+            </div>
+            <div class="feature-card-horizontal">
+                <i>📍</i>
+                <p>TÍNH NĂNG 3</p>
+            </div>
+        </div>
+    </main>
 
     <!-- Footer -->
-    <hr color="#eeeeee">
-    <table width="100%" border="0" cellpadding="40" cellspacing="0">
-        <tr>
-            <td width="25%" valign="top">
-                <table border="1" cellpadding="5"><tr><td><b>LOGO</b></td></tr></table>
-                <p>f (i) in</p>
-            </td>
-            <td width="25%" valign="top">
-                <b>VỀ CHÚNG TÔI</b><br><br>
-                Giới thiệu<br>
-                Tầm nhìn - Sứ mệnh<br>
-                Đội ngũ
-            </td>
-            <td width="25%" valign="top">
-                <b>HỖ TRỢ</b><br><br>
-                Chính sách bảo mật<br>
-                Điều khoản sử dụng<br>
-                Câu hỏi thường gặp
-            </td>
-            <td width="25%" valign="top">
-                <b>LIÊN HỆ</b><br><br>
-                SĐT: 0123 456 789<br>
-                email@example.com<br>
-                Địa chỉ: 123 ABC
-            </td>
-        </tr>
-        <tr>
-            <td colspan="4" align="center">
-                <font size="2">@2026 Anh Tuấn</font>
-            </td>
-        </tr>
-    </table>
+    <footer>
+        <div class="container footer-grid">
+            <div class="footer-col">
+                <div class="logo">LOGO</div>
+                <div class="social-icons">
+                    <span>f</span> <span>📷</span> <span>in</span>
+                </div>
+            </div>
+            <div class="footer-col">
+                <h3>VỀ CHÚNG TÔI</h3>
+                <ul>
+                    <li>Giới thiệu</li>
+                    <li>Tầm nhìn - Sứ mệnh</li>
+                    <li>Đội ngũ</li>
+                </ul>
+            </div>
+            <div class="footer-col border-left">
+                <h3>HỖ TRỢ</h3>
+                <ul>
+                    <li>Chính sách bảo mật</li>
+                    <li>Điều khoản sử dụng</li>
+                    <li>Câu hỏi thường gặp</li>
+                </ul>
+            </div>
+            <div class="footer-col border-left">
+                <h3>LIÊN HỆ</h3>
+                <ul>
+                    <li>SĐT: 0123 456 789</li>
+                    <li>email@example.com</li>
+                    <li>Địa chỉ: 123 ABC</li>
+                </ul>
+            </div>
+        </div>
+        <div class="copyright">@2026 Anh Tuấn</div>
+    </footer>
 
 </body>
 </html>
