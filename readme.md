@@ -80,7 +80,6 @@ Website bao gồm 5 trang chính:
 * **Design**: canva
 * **Công cụ AI**: gemini
 * **Dòng lệnh** :
-"Hãy tạo cho tôi một giao diện web tối giản cho công ty kiến trúc bằng HTML và CSS thuần. Yêu cầu có thanh menu ngang, phần Hero giới thiệu, grid 3 cột cho tính năng, trang danh mục dự án có bộ lọc và trang liên hệ có form. Sử dụng font Arial, màu sắc chủ đạo là #333 và trắng."
 
 ## 7.Liên hệ
 > Nếu bạn muốn hợp tác hoặc trao đổi, đừng ngại liên hệ!
