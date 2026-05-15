@@ -73,7 +73,7 @@ Website bao gồm 5 trang chính:
 ## 6. công nghệ sử dụng 
 * **Design**: canva
 * **Công cụ AI**: gemini
-* **Dòng lệnh** :
+* **Dòng lệnh** :" Dựa vào ảnh giao diện và hãy viết cho tôi đoạn code html
 
 ## 7.Liên hệ
 > Nếu bạn muốn hợp tác hoặc trao đổi, đừng ngại liên hệ!
